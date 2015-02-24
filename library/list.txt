@@ -1,0 +1,6 @@
+library_15.JPG 15
+library_0-5.JPG 0.5
+library_1_10.JPG 0.1
+library_1_80.JPG 0.0125
+library_3-2.JPG 3.2
+library_1-6.JPG 1.6
