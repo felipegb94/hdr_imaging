@@ -1,7 +1,5 @@
 # HDR Imaging Project
 
-This project is our implementation in Matlab of High Dynamic Range (HDR) imaging for Spring 2015 CS 766 Computer Vision at UW-Madison. 
-
 ## Group
 * Felipe Gutierrez 
 * Isaac Sung
